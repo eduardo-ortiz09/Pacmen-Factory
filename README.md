@@ -25,7 +25,7 @@ Pacmen Factory is code that creates and add pacman elements for the user to play
 
 ## :dart: Description ##
 
-This proyect is about a famous video game from the 80's that its a litlle face that is moving forward eating everything on its way. The proyect is part of the MERN Proggraming Certificate from the MIT that I am attending. 
+This proyect is about a famous video game from the 80's that its a little face that is moving forward eating everything on its way. The proyect is part of the MERN Programming Certificate from the MIT that I am attending. 
 
 ## :dart: DEMO ##
 
